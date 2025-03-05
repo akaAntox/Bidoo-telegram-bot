@@ -36,8 +36,6 @@ This tool scrapes links from the [Bidoo Puntate Gratis Telegram Channel](https:/
    [Telegram]
    api_id = YOUR_API_ID
    api_hash = YOUR_API_HASH
-   session_name = your_telegram_session
-   channel_username = bidoo_puntate_gratis
    ```
 
 ## Usage
